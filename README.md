@@ -1,7 +1,7 @@
-### Hi there 👋
+### 💻
 
 <!--
-**felipevergani/felipevergani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*eighty-six* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipevergani&show_icons=true&theme=tokyonight&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipevergani&hide_progress=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
